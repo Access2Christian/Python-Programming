@@ -16,29 +16,29 @@ This repository contains various Python practice projects that demonstrate diffe
 2. **Spacecraft and Satellite Distance Calculation**
    - Computes the distance between a spacecraft and a satellite, visualizing the satellite's movement in a circular path.
 
-3. **Prime Number Counter**
-   - Counts all prime numbers up to a specified maximum value and measures the time taken to do so.
+3. **Prime Number Counter (Basic)**
+   - Counts all prime numbers up to 10,000 using a simple method, and measures the elapsed time.
 
-4. **Eval Function Tester**
-   - Demonstrates the use of the `eval()` function to evaluate user inputs of different data types.
+4. **Prime Number Counter (Optimized)**
+   - An optimized version of the prime number counter using the square root function to reduce computation time.
 
-5. **Turtle Graphics**
-   - Draws shapes and patterns using the Turtle graphics library, including octagons and spirals.
+5. **Eval Function Tester**
+   - Demonstrates the use of the `eval()` function to evaluate user inputs of different data types (int, float, boolean).
 
-6. **Simple Function Example**
-   - A simple function that doubles an input number and explains how to call it from the Python interpreter.
+6. **Rectangle Drawing with Turtle**
+   - Uses the Turtle graphics library to draw a rectangle with different colors for each side.
 
-7. **Counting to n**
-   - Counts to a user-defined number using both `for` and `while` loops, illustrating function calls in loops.
+7. **Spiral and Octagon Drawing with Turtle**
+   - Combines Turtle graphics to create a spiral pattern surrounded by an octagon, illustrating the use of loops and geometry.
 
-8. **CSV File Writer**
-   - Writes sample data to a CSV file using the `csv` module.
+8. **Simple Function Example**
+   - A basic function `double(n)` that returns twice the input number, with explanations on how to call it.
 
-9. **Regular Expressions for Email Extraction**
-   - Uses regular expressions to find and extract email addresses from a given string.
+9. **Counting to n**
+   - A function that counts from 1 to a user-defined number, utilizing both `for` and `while` loops.
 
-10. **Spiral Drawing with Turtle**
-    - Combines Turtle graphics with mathematical functions to create a spiral pattern surrounded by an octagon.
+10. **Recursive Counting Example**
+   - Demonstrates recursive counting down from `n` and counting up to `n` using loops and a function call.
 
 ## Getting Started
 
